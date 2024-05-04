@@ -5,11 +5,11 @@
 }
 .container{  
     width: 100%;
-    min-height: 300vh;
+    height: 300%;
     padding: 10px;
     background-image: url(img/back.jpg);
     background-repeat: no-repeat;
-    background-size: 200%;
+    background-size: 150%;
 }
 .header{
     background-color: #ffffff;
