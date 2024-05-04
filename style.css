@@ -5,7 +5,7 @@
 }
 .container{  
     width: 100%;
-    min-height: 100vh;
+    min-height: 300vh;
     padding: 10px;
     background-image: url(img/back.jpg);
     background-repeat: no-repeat;
